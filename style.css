@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    flex-direction: columm;
+    margin:0;
+    padding: 10px;
+    background-color: #282c34
+    min-height: 100vh
+}
